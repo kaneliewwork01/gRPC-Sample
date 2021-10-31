@@ -20,7 +20,7 @@ The explanation of the gRPC server in the image flow as below:
 ![image](https://drive.google.com/uc?export=view&id=1soFsfEVvE1kI_8L-qKqlpd3DTiFe05bj)
 
 
-The explanation of the gRPC server in the image flow as below:
+The explanation of the gRPC client in the image flow as below:
 
 ![image](https://drive.google.com/uc?export=view&id=1mP-XXWULoGAw77y4CW8i3blaTDncjI49)
 
